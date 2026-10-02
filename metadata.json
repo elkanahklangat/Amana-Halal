@@ -1,0 +1,6 @@
+{
+  "name": "Amana Halal Butchery & Grill",
+  "description": "Artisanal halal butchery and ready-to-eat gourmet kitchen at Legend Valley Business Park, Lavington. Order fresh cuts, seafood, vegetarian dishes, and schedule delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
